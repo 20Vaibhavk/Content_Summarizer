@@ -23,7 +23,8 @@ pip install openai python-dotenv
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Anushka1912/Content_Summarizer.git
+
+   git clone https://github.com/20Vaibhavk/Content_Summarizer.git
    cd Content_Summarizer
    ```
 
